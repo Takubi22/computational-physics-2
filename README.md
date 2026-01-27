@@ -75,6 +75,8 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Nonlinear dynamics, chaotic systems, fractals and statistical growth
 
+- Introduction to Machine Learning
+
 
 ## Syllabus:
 
