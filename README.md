@@ -22,6 +22,7 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Boundary value problems, shooting and finite difference methods, applications
 
+
 ### 2. Software design:
 
 - Python classes and modules
@@ -30,7 +31,8 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Software design using object oriented programming
   
-- Timing tests and efficient coding.
+- Timing tests and efficient coding
+
 
 ### 3. Parallel computing for physics::
 
@@ -49,17 +51,21 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Methods of solving partial differential equations
 
-- Parabolic and elliptical problems. Heat and Poisson equations.
+- Parabolic and elliptical problems.
+  
+- FFT methods: Heat and Poisson equations
 
-### 5. Computational Fluid Dynamics (CFD):
 
-- Hyperbolic problems: Introduction to computational fluid dynamics (CFD)
+### 5. Introduction to computational fluid dynamics (CFD)
 
-- Discretisation, meshing and conservation in computational fluid dynamics
+- Hyperbolic problems
 
-- Advection, shocks and solitons
+- Discretisation, meshing and conservation in CFD
+
+- Advection, waves and shocks
 
 - Introduction to hydrodynamics
+
 
 ### 6. Special topics in computational physics:
 
@@ -69,12 +75,10 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Nonlinear dynamics, chaotic systems, fractals and statistical growth
 
-- Introduction to machine learning
 
+## Syllabus:
 
 The full course syllabus and programme can be found here:
-
-
 
 
 ### Prerequisites:
