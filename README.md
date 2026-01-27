@@ -1,9 +1,9 @@
 # Computational Physics II
 
-## Yachay Tech University - 2025
+## Yachay Tech University - 2026
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 2 course at Yachay Tech University from February to June 2025.
+This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 2 course at Yachay Tech University.
 
 ## Lecturer:
 Wladimir E. Banda Barragán
@@ -51,10 +51,17 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 - Parabolic and elliptical problems. Heat and Poisson equations.
 
+### 5. Computational Fluid Dynamics (CFD):
+
 - Hyperbolic problems: Introduction to computational fluid dynamics (CFD)
 
+- Discretisation, meshing and conservation in computational fluid dynamics
 
-### 5. Special topics in computational physics:
+- Advection, shocks and solitons
+
+- Introduction to hydrodynamics
+
+### 6. Special topics in computational physics:
 
 - Applications to fluids, electromagnetism, heat flow, and quantum mechanics
 
@@ -67,7 +74,7 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 The full course syllabus and programme can be found here:
 
-https://github.com/wbandabarragan/computational-physics-2/blob/main/CP2_Syllabus_Ing_ISEM2025_fisica.pdf
+
 
 
 ### Prerequisites:
@@ -95,19 +102,19 @@ These components consist of the following tasks:
 - Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
 
 
-## On deadlines:
-
-The assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
-
-
 ## Weekly tutoring schedule:
 
 If you have questions on the material, you can find me in the office:
 
-- On Mondays: 11:00 - 12:00
+- On Tuesdays: 
 
-- On Thursdays: 16:00 - 17:00
+- On Thursdays:  
 
+## Class attendance:
+
+- As per regulations of the Vicerrector's office of Yachay Tech, you should attend 70% of the classes to pass the course.
+  
+- To justify an absence, please submit all the necessary official documentation within 5 days.
 
 ## On academic integrity:
 
@@ -120,10 +127,13 @@ If you have questions on the material, you can find me in the office:
 - Academic misconduct will be penalised according to our University’s regulations.
 
 ## Late assignment policy:
+
 Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation. Late assignments without appropriate justification will receive a penalisation of -1% per late hour.
 
 ## Useful repositories: 
 
 - Data repository: https://github.com/wbandabarragan/physics-teaching-data
+  
+- Archived versions of the CP1 course taught in previous semesters: https://github.com/wbandabarragan/computational-physics-1-arxiv
 
 - Archived versions of the CP2 course taught in previous semesters: https://github.com/wbandabarragan/computational-physics-2-arxiv
