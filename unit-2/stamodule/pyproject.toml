@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stamodule"
+description = "test module for CP2"
+readme = "README.md"
+license.text = "MIT"
+version="0.1.0"
+authors = [
+  {name="WEBB"},
+  {email="wbanda@yachaytech.edu.ec"},
+]
+
+dependencies = [
+  "numpy",
+  "matplotlib",
+]
